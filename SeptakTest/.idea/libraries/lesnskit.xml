@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="lesnskit">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/lib/lesnskit" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/lib/lesnskit" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/lib/lesnskit" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/lib/lesnskit" recursive="false" type="SOURCES" />
+  </library>
+</component>
